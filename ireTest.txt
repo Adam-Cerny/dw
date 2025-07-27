@@ -910,3 +910,389 @@ Hp: 852 (2039) Gp: 358 (382) Xp: 632311
 {-5 HP} 
 Tating places her hands on you.
 You feel Sek's fire burn around you, sealing your wounds.
+
+
+Tating moves aggressively towards you!
+Hp: 2039 (2039) Gp: 382 (382) Xp: 633158
+As your shield absorbs the impact, it becomes visible as a dull red glow.
+Just as Tating makes contact, an umbral shroud eclipses you, accompanied by a choking, caustic smell.  With a sickening tearing sound, large fissures appear in your skin as parts warp and melt away.
+Hp: 1733 (2039) Gp: 382 (382) Xp: 633161
+{-7 HP} 
+{-299 HP} 
+Hp: 1736 (2039) Gp: 382 (382) Xp: 633161
+As your shield absorbs the impact, its glow changes from a dull red to a wobbling orange.
+{-14 HP} 
+As your shield absorbs the impact, its glow changes from a wobbling orange to a flickering yellow.
+Hp: 1725 (2039) Gp: 382 (382) Xp: 633164
+{-22 HP} 
+Tating places her hands together and closes her eyes.
+Tating utters a quick prayer to Sek.
+Your shield changes from a flickering yellow to a wobbling orange.
+Tating places her hands on you.
+You feel Sek's fire burn around you, sealing your wounds.
+Hp: 1984 (2039) Gp: 382 (382) Xp: 633167
+As your shield absorbs the impact, its glow changes from a wobbling orange to a flickering yellow.
+As Tating strikes, a malevolent pall surrounds you and immediately your skin starts to develop splits and tears, with acrid smoke escaping from the fissures.
+Hp: 1734 (2039) Gp: 382 (382) Xp: 633170
+{-16 HP} 
+{-234 HP} 
+There is a sudden white flash.  Your magical shield has broken.
+Tating takes a sliver off your right leg with her smouldering sky katana.
+{-244 HP} 
+Tating places her hands together and closes her eyes.
+Tating utters a quick prayer to Sek.
+Hp: 1493 (2039) Gp: 382 (382) Xp: 633170
+{-17 HP} 
+Tating places her hands on you.
+You feel Sek's fire burn around you, sealing your wounds.
+Hp: 1757 (2039) Gp: 382 (382) Xp: 633173
+Tating takes a sliver off your left hand with her smouldering sky katana.
+{-16 HP} 
+{-284 HP} 
+Tating perforates your chest with her smouldering sky katana.
+{-277 HP} 
+clw
+> You place your hands together and close your eyes.
+
+Hp: 1183 (2039) Gp: 366 (382) Xp: 633248
+Tating slices her smouldering sky katana deeply into your stomach.
+> 
+{-352 HP} 
+
+You utter a quick prayer to Gufnork.
+> You place your hands on yourself.
+You feel Gufnork soothe your injuries with fluff.
+Hp: 1065 (2039) Gp: 370 (382) Xp: 633251
+Tating slices her smouldering sky katana deeply into your head.
+As Tating's blow lands, an umbral shroud eclipses you, accompanied by a choking, caustic smell.  With a sickening tearing sound, large fissures appear in your skin as parts warp and melt away.
+Hp: 370 (2039) Gp: 370 (382) Xp: 633254
+{-14 HP} 
+{-374 HP} 
+{-307 HP} 
+Tating appears to be checking out all your wounds.
+Tating studies Tating and you.
+Tating perforates your right leg with her smouldering sky katana.
+{-245 HP} 
+
+
+
+> Tating arrives from the south.
+Hp: 2039 (2039) Gp: 286 (382) Xp: 633682
+{-6 HP} 
+Tating places her hands together and closes her eyes.
+Hp: 2036 (2039) Gp: 290 (382) Xp: 633685
+{-17 HP} 
+Tating utters a quick prayer.
+Hp: 2022 (2039) Gp: 294 (382) Xp: 633688
+{-19 HP} 
+Tating places her hands on you.
+You feel the profane flames of Sek lick around you, sealing your wounds.
+Hp: 2039 (2039) Gp: 298 (382) Xp: 633691
+Tating jabs you in the right leg.
+As Tating strikes, a malevolent pall surrounds you and immediately your skin starts to develop splits and tears, with acrid smoke escaping from the fissures.
+Hp: 1704 (2039) Gp: 298 (382) Xp: 633694
+{-14 HP} 
+{-94 HP} 
+{-227 HP} 
+Hp: 1707 (2039) Gp: 302 (382) Xp: 633694
+Tating places her hands together and closes her eyes.
+{-5 HP} 
+Tating utters a quick prayer.
+Hp: 1705 (2039) Gp: 306 (382) Xp: 633697
+{-6 HP} 
+Tating places her hands on you.
+You feel the profane flames of Sek lick around you, sealing your wounds.
+Hp: 2039 (2039) Gp: 310 (382) Xp: 633700
+{-13 HP} 
+Hp: 2029 (2039) Gp: 314 (382) Xp: 633703
+{-7 HP} 
+Hp: 2025 (2039) Gp: 318 (382) Xp: 633706
+Tating places her hands together and closes her eyes.
+{-12 HP} 
+Tating utters a quick prayer.
+Hp: 2016 (2039) Gp: 322 (382) Xp: 633709
+{-12 HP} 
+Tating places her hands on you.
+You feel the profane flames of Sek lick around you, sealing your wounds.
+Hp: 2039 (2039) Gp: 326 (382) Xp: 633712
+{-17 HP} 
+Tating tickles you in the chest.
+As Tating strikes, an umbral shroud eclipses you, accompanied by a choking, caustic smell.  With a sickening tearing sound, large fissures appear in your skin as parts warp and melt away.
+Hp: 1651 (2039) Gp: 326 (382) Xp: 633715
+{-48 HP} 
+{-323 HP} 
+Hp: 1654 (2039) Gp: 330 (382) Xp: 633715
+{-14 HP} 
+Tating draws a smouldering sky katana from a gleaming red saya into her right hand and left hand.
+Hp: 1643 (2039) Gp: 334 (382) Xp: 633718
+Tating takes a sliver off your right arm with her smouldering sky katana.
+As Tating strikes, an umbral shroud eclipses you, accompanied by a choking, caustic smell.  With a sickening tearing sound, large fissures appear in your skin as parts warp and melt away.
+Hp: 1035 (2039) Gp: 334 (382) Xp: 633721
+{-14 HP} 
+{-234 HP} 
+{-360 HP} 
+Tating takes a sliver off your left arm with her smouldering sky katana.
+{-268 HP} 
+Hp: 770 (2039) Gp: 338 (382) Xp: 633721
+Tating slices her smouldering sky katana deeply into your left hand.
+Tating places her hands together and closes her eyes.
+{-12 HP} 
+{-301 HP} 
+Tating utters a quick prayer.
+Hp: 460 (2039) Gp: 342 (382) Xp: 633724
+{-15 HP} 
+
+> 
+
+Tating places her hands on you.
+You feel the profane flames of Sek lick around you, sealing your wounds.
+> 
+
+Hp: 1000 (2039) Gp: 346 (382) Xp: 633727
+Tating takes a sliver off your left arm with her smouldering sky katana.
+As Tating's blow lands, an umbral shroud eclipses you, accompanied by a choking, caustic smell.  With a sickening tearing sound, large fissures appear in your skin as parts warp and melt away.
+Hp: 318 (2039) Gp: 346 (382) Xp: 633730
+> 
+{-7 HP} 
+{-317 HP} 
+{-358 HP} 
+Tating perforates your right arm with her smouldering sky katana.
+{-258 HP} 
+
+
+ating is fighting here.
+A dark grey cloak and a swag bag are on the ground.
+Hp: 2039 (2039) Gp: 218 (382) Xp: 634127
+Tating takes a sliver off your stomach with her smouldering sky katana.
+As Tating strikes, an umbral shroud eclipses you, accompanied by a choking, caustic smell.  With a sickening tearing sound, large fissures appear in your skin as parts warp and melt away.
+Hp: 1423 (2039) Gp: 218 (382) Xp: 634130
+> 
+{-13 HP} 
+{-339 HP} 
+{-264 HP} 
+Tating takes a sliver off your right arm with her smouldering sky katana.
+As Tating strikes, an umbral shroud eclipses you, accompanied by a choking, caustic smell.  With a sickening tearing sound, large fissures appear in your skin as parts warp and melt away.
+Hp: 944 (2039) Gp: 218 (382) Xp: 634130
+
+{-204 HP} 
+{-275 HP} 
+> Hp: 947 (2039) Gp: 222 (382) Xp: 634130
+Tating slices her smouldering sky katana deeply into your right leg.
+
+{-6 HP} 
+{-376 HP} 
+> 
+w
+Tating takes a sliver off your right hand with her smouldering sky katana.
+*-*-*-*   
+|x|x|x|\  
+*-*-@-$-*+
+|x|x|x|/  
+*-*-*-*   
+The eastern side of the arena [n,ne,e,se,s,sw,w,nw].
+> 
+{-248 HP} 
+clw
+> You place your hands together and close your eyes.
+You utter a quick prayer to Gufnork.
+You place your hands on yourself.
+You feel Gufnork soothe your injuries with fluff.
+Hp: 544 (2039) Gp: 206 (382) Xp: 634165
+clw
+> You place your hands together and close your eyes.
+You utter a quick prayer to Gufnork.
+You place your hands on yourself.
+You feel Gufnork soothe your injuries with fluff.
+Hp: 799 (2039) Gp: 194 (382) Xp: 634224
+
+> 
+clw
+> You place your hands together and close your eyes.
+You utter a quick prayer to Gufnork.
+You place your hands on yourself.
+You feel Gufnork soothe your injuries with fluff.
+Hp: 1030 (2039) Gp: 178 (382) Xp: 634265
+clw
+> You place your hands together and close your eyes.
+You utter a quick prayer to Gufnork.
+You place your hands on yourself.
+You feel Gufnork soothe your injuries with fluff.
+Hp: 1277 (2039) Gp: 162 (382) Xp: 634302
+clw
+> 
+clw
+> 
+
+Tating moves south within the eastern side of the arena.
+You place your hands together and close your eyes.
+> 
+
+> You utter a quick prayer to Gufnork.
+You place your hands on yourself.
+You feel Gufnork soothe your injuries with fluff.
+Hp: 1502 (2039) Gp: 150 (382) Xp: 634337
+
+> 
+
+> 
+clw
+> 
+
+You do not have the mental focus to perform cure light wounds.
+> 
+
+> 
+
+> 
+clw
+> 
+
+> You place your hands together and close your eyes.
+You utter a quick prayer to Gufnork.
+You place your hands on yourself.
+You feel Gufnork soothe your injuries with fluff.
+Hp: 1768 (2039) Gp: 150 (382) Xp: 634399
+clw
+You do not have the mental focus to perform cure light wounds.
+> 
+
+> 
+clw
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+You place your hands together and close your eyes.
+You utter a quick prayer to Gufnork.
+You place your hands on yourself.
+You feel Gufnork soothe your injuries with fluff.
+Hp: 2027 (2039) Gp: 150 (382) Xp: 634461
+> 
+e
+> 
+
+You do not have the mental focus to perform cure light wounds.
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> *-*-*     
+|x|x|\    
+*-*-@-*+  
+|x|x|/    
+*-*-&     
+The eastern side of the arena [n,e,s,sw,w,nw].
+A dark grey cloak and a swag bag are on the ground.
+
+> 
+gs healed up
+[testing] Adassin: healed up
+> Tating arrives from the south.
+Hp: 2039 (2039) Gp: 186 (382) Xp: 634485
+Tating slices her smouldering sky katana deeply into your stomach.
+Just as Tating makes contact, a malevolent pall surrounds you and immediately your skin starts to develop splits and tears, with acrid smoke escaping from the fissures.
+Hp: 1275 (2039) Gp: 186 (382) Xp: 634488
+{-14 HP} 
+{-514 HP} 
+{-236 HP} 
+Tating takes a sliver off your left arm with her smouldering sky katana.
+{-200 HP} 
+Hp: 1078 (2039) Gp: 190 (382) Xp: 634488
+Tating takes a sliver off your left arm with her smouldering sky katana.
+{-13 HP} 
+{-265 HP} 
+Tating takes a sliver off your chest with her smouldering sky katana.
+{-313 HP} 
+Tating places her hands together and closes her eyes.
+Hp: 490 (2039) Gp: 194 (382) Xp: 634491
+{-15 HP} 
+Tating utters a quick prayer.
+
+Hp: 478 (2039) Gp: 198 (382) Xp: 634494
+> 
+{-15 HP} 
+
+> 
+
+> 
+
+Tating places her hands on you.
+You feel the profane flames of Sek lick around you, sealing your wounds.
+
+> Hp: 968 (2039) Gp: 202 (382) Xp: 634497
+Tating perforates your left leg with her smouldering sky katana.
+As Tating's blow lands, a deep shadow envelops you, accompanied by an unnerving crackling sound as your skin starts to blister and crack.
+Hp: 530 (2039) Gp: 202 (382) Xp: 634500
+> 
+
+{-15 HP} 
+{-269 HP} 
+{-154 HP} 
+> 
+w
+*-*-*-*   
+|x|x|x|\  
+*-*-@-$-*+
+|x|x|x|/  
+*-*-*-*   
+The eastern side of the arena [n,ne,e,se,s,sw,w,nw].
+> 
+clw
+> You place your hands together and close your eyes.
+You utter a quick prayer to Gufnork.
+clw
+You place your hands on yourself.
+You feel Gufnork soothe your injuries with fluff.
+Hp: 771 (2039) Gp: 190 (382) Xp: 634554
+> Tating moves south within the eastern side of the arena.
+You place your hands together and close your eyes.
+You utter a quick prayer to Gufnork.
+You place your hands on yourself.
+You feel Gufnork soothe your injuries with fluff.
+Hp: 1009 (2039) Gp: 178 (382) Xp: 634589
+
+> 
+gs say when enough hits and ill paster
+[testing] Adassin: say when enough hits and ill paster
+> 
+clw
+> You place your hands together and close your eyes.
+You utter a quick prayer to Gufnork.
+clw
+You place your hands on yourself.
+You feel Gufnork soothe your injuries with fluff.
+Hp: 1279 (2039) Gp: 206 (382) Xp: 634660
+> You place your hands together and close your eyes.
+You utter a quick prayer to Gufnork.
+You place your hands on yourself.
+You feel Gufnork soothe your injuries with fluff.
+Hp: 1509 (2039) Gp: 194 (382) Xp: 634708
+[testing] Tating: that should be plenty
