@@ -1,0 +1,61 @@
+Tating calls upon Sek with a vengeful tone.
+Tating gestures wildly, beseeching Sek to grant her something.
+Tating moves aggressively towards you!
+Hp: 2039 (2039) Gp: 382 (382) Xp: 625657
+Just as Tating makes contact, an umbral shroud eclipses you, accompanied by a choking, caustic smell.  With a sickening tearing sound, large fissures appear in your skin as parts warp and melt away.
+Hp: 1769 (2039) Gp: 382 (382) Xp: 625660
+{-14 HP} 
+{-256 HP} 
+Hp: 1772 (2039) Gp: 382 (382) Xp: 625660
+As Tating's blow lands, an umbral shroud eclipses you, accompanied by a choking, caustic smell.  With a sickening tearing sound, large fissures appear in your skin as parts warp and melt away.
+Hp: 1433 (2039) Gp: 382 (382) Xp: 625663
+{-13 HP} 
+{-326 HP} 
+Hp: 1436 (2039) Gp: 382 (382) Xp: 625663
+{-12 HP} 
+gs shall i shout the stuff into chat or give you the log then?
+[testing] Adassin: shall i shout the stuff into chat or give you the log then?
+> Hp: 1427 (2039) Gp: 382 (382) Xp: 625666
+As Tating strikes, a malevolent pall surrounds you and immediately your skin starts to develop splits and tears, with acrid smoke escaping from the fissures.
+Hp: 1201 (2039) Gp: 382 (382) Xp: 625669
+{-14 HP} 
+{-212 HP} 
+Hp: 1204 (2039) Gp: 382 (382) Xp: 625669
+As your shield absorbs the impact, it becomes visible as a dull red glow.
+
+> 
+{-13 HP} 
+
+Hp: 1194 (2039) Gp: 382 (382) Xp: 625672
+> 
+
+> 
+
+> Hp: 1197 (2039) Gp: 382 (382) Xp: 625675
+As Tating's blow lands, a malevolent pall surrounds you and immediately your skin starts to develop splits and tears, with acrid smoke escaping from the fissures.
+Hp: 993 (2039) Gp: 382 (382) Xp: 625678
+{-14 HP} 
+{-190 HP} 
+
+> 
+
+> Hp: 996 (2039) Gp: 382 (382) Xp: 625678
+
+{-7 HP} 
+> 
+
+> Hp: 992 (2039) Gp: 382 (382) Xp: 625681
+{-12 HP} 
+[testing] Tating: either works, this is very ballpark
+Hp: 983 (2039) Gp: 382 (382) Xp: 625684
+{-13 HP} 
+Hp: 973 (2039) Gp: 382 (382) Xp: 625687
+As Tating strikes, a malevolent pall surrounds you and immediately your skin starts to develop splits and tears, with acrid smoke escaping from the fissures.
+Hp: 722 (2039) Gp: 382 (382) Xp: 625690
+{-12 HP} 
+{-239 HP} 
+Hp: 725 (2039) Gp: 382 (382) Xp: 625690
+As your shield absorbs the impact, its glow changes from a dull red to a bright red.
+{-13 HP} 
+w
+Hp: 715 (2039) Gp: 382 (382) Xp: 625693
