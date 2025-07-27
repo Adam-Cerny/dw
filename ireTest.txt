@@ -271,5 +271,138 @@ Just as Tating makes contact, a malevolent pall surrounds you and immediately yo
 Hp: 1389 (2039) Gp: 330 (382) Xp: 626503
 [testing] Tating: git it as low as I could
 {-245 HP} 
-w
+
 Hp: 715 (2039) Gp: 382 (382) Xp: 625693
+
+ating moves aggressively towards you!
+Hp: 2039 (2039) Gp: 382 (382) Xp: 626870
+As Tating strikes, a deep shadow envelops you, accompanied by an unnerving crackling sound as your skin starts to blister and crack.
+Hp: 1851 (2039) Gp: 382 (382) Xp: 626873
+{-18 HP} 
+{-170 HP} 
+As your shield absorbs the impact, it becomes visible as a dull red glow.
+Hp: 1854 (2039) Gp: 382 (382) Xp: 626873
+{-14 HP} 
+As Tating strikes, a malevolent pall surrounds you and immediately your skin starts to develop splits and tears, with acrid smoke escaping from the fissures.
+Hp: 1654 (2039) Gp: 382 (382) Xp: 626876
+{-186 HP} 
+Hp: 1657 (2039) Gp: 382 (382) Xp: 626876
+As your shield absorbs the impact, its glow changes from a dull red to a bright red.
+{-15 HP} 
+Hp: 1645 (2039) Gp: 382 (382) Xp: 626879
+As your shield absorbs the impact, its glow changes from a bright red to a wobbling orange.
+Hp: 1648 (2039) Gp: 382 (382) Xp: 626882
+{-7 HP} 
+Your shield changes from a wobbling orange to a bright red.
+As your shield absorbs the impact, its glow changes from a bright red to a wobbling orange.
+Hp: 1644 (2039) Gp: 382 (382) Xp: 626885
+As Tating strikes, a malevolent pall surrounds you and immediately your skin starts to develop splits and tears, with acrid smoke escaping from the fissures.
+Hp: 1439 (2039) Gp: 382 (382) Xp: 626888
+{-15 HP} 
+{-190 HP} 
+As your shield absorbs the impact, its glow changes from a wobbling orange to a flickering yellow.
+Hp: 1442 (2039) Gp: 382 (382) Xp: 626888
+Hp: 1445 (2039) Gp: 382 (382) Xp: 626891
+There is a sudden white flash.  Your magical shield has broken.
+Tating viciously boots you in the right arm.
+
+Tating arrives from the south.
+
+Hp: 1823 (2039) Gp: 365 (382) Xp: 627946
+> 
+{-12 HP} 
+Tating looks at you.
+Hp: 1814 (2039) Gp: 369 (382) Xp: 627949
+{-14 HP} 
+Hp: 1803 (2039) Gp: 373 (382) Xp: 627952
+{-18 HP} 
+Hp: 1788 (2039) Gp: 377 (382) Xp: 627955
+As Tating strikes, a malevolent pall surrounds you and immediately your skin starts to develop splits and tears, with acrid smoke escaping from the fissures.
+Hp: 1533 (2039) Gp: 377 (382) Xp: 627958
+{-12 HP} 
+{-243 HP} 
+Hp: 1536 (2039) Gp: 381 (382) Xp: 627958
+{-13 HP} 
+Hp: 1526 (2039) Gp: 382 (382) Xp: 627961
+{-12 HP} 
+Hp: 1517 (2039) Gp: 382 (382) Xp: 627964
+{-9 HP} 
+Hp: 1511 (2039) Gp: 382 (382) Xp: 627967
+As Tating strikes, a malevolent pall surrounds you and immediately your skin starts to develop splits and tears, with acrid smoke escaping from the fissures.
+Hp: 1289 (2039) Gp: 382 (382) Xp: 627970
+{-6 HP} 
+{-216 HP} 
+Hp: 1292 (2039) Gp: 382 (382) Xp: 627970
+As Tating strikes, a malevolent pall surrounds you and immediately your skin starts to develop splits and tears, with acrid smoke escaping from the fissures.
+Hp: 1093 (2039) Gp: 382 (382) Xp: 627973
+{-13 HP} 
+{-186 HP} 
+Hp: 1096 (2039) Gp: 382 (382) Xp: 627973
+{-6 HP} 
+clw
+> You place your hands together and close your eyes.
+You utter a quick prayer to Gufnork.
+Hp: 1093 (2039) Gp: 366 (382) Xp: 628014
+As your shield absorbs the impact, it becomes visible as a dull red glow.
+clw
+> 
+clw
+You place your hands on yourself.
+You feel Gufnork soothe your injuries with fluff.
+> 
+clw
+> Hp: 1327 (2039) Gp: 350 (382) Xp: 628053
+You place your hands together and close your eyes.
+You utter a quick prayer to Gufnork.
+You place your hands on yourself.
+You feel Gufnork soothe your injuries with fluff.
+Hp: 1566 (2039) Gp: 334 (382) Xp: 628113
+You place your hands together and close your eyes.
+You utter a quick prayer to Gufnork.
+Your shield stops glowing a dull red and lapses back into invisibility.
+You place your hands on yourself.
+You feel Gufnork soothe your injuries with fluff.
+Hp: 1801 (2039) Gp: 338 (382) Xp: 628116
+As your shield absorbs the impact, it becomes visible as a dull red glow.
+Just as Tating makes contact, an umbral shroud eclipses you, accompanied by a choking, caustic smell.  With a sickening tearing sound, large fissures appear in your skin as parts warp and melt away.
+Hp: 1533 (2039) Gp: 338 (382) Xp: 628119
+{-6 HP} 
+{-262 HP} 
+Tating places her hands together and closes her eyes.
+Hp: 1536 (2039) Gp: 322 (382) Xp: 628176
+You place your hands together and close your eyes.
+Tating utters a quick prayer to Sek.
+Tating places her hands on you.
+You feel Sek's fire burn around you, sealing your wounds.
+You utter a quick prayer to Gufnork.
+clw
+You place your hands on yourself.
+You feel Gufnork soothe your injuries with fluff.
+> Hp: 2039 (2039) Gp: 326 (382) Xp: 628179
+As Tating's blow lands, a malevolent pall surrounds you and immediately your skin starts to develop splits and tears, with acrid smoke escaping from the fissures.
+Hp: 1803 (2039) Gp: 326 (382) Xp: 628182
+{-6 HP} 
+{-230 HP} 
+
+> Hp: 1806 (2039) Gp: 310 (382) Xp: 628215
+You place your hands together and close your eyes.
+You utter a quick prayer to Gufnork.
+You place your hands on yourself.
+You feel Gufnork soothe your injuries with fluff.
+Hp: 2039 (2039) Gp: 314 (382) Xp: 628218
+
+> 
+
+Hp: 2039 (2039) Gp: 318 (382) Xp: 628221
+> 
+{-7 HP} 
+Hp: 2035 (2039) Gp: 322 (382) Xp: 628224
+As Tating strikes, a malevolent pall surrounds you and immediately your skin starts to develop splits and tears, with acrid smoke escaping from the fissures.
+Hp: 1811 (2039) Gp: 322 (382) Xp: 628227
+{-7 HP} 
+{-217 HP} 
+Hp: 1814 (2039) Gp: 326 (382) Xp: 628227
+{-17 HP} 
+Tating leaves south.
+stop
+Removed queue.
