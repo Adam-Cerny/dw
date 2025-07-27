@@ -406,3 +406,507 @@ Hp: 1814 (2039) Gp: 326 (382) Xp: 628227
 Tating leaves south.
 stop
 Removed queue.
+roup say yeah seems like major stacking
+[Mazak enters Discworld -- Assassins (Assassin)]
+[testing] Adassin: yeah seems like major stacking
+> Hp: 1805 (2039) Gp: 382 (382) Xp: 628884
+{-14 HP} 
+Hp: 1794 (2039) Gp: 382 (382) Xp: 628887
+{-11 HP} 
+Hp: 1786 (2039) Gp: 382 (382) Xp: 628890
+{-14 HP} 
+Hp: 1775 (2039) Gp: 382 (382) Xp: 628893
+Just as Tating makes contact, a malevolent pall surrounds you and immediately your skin starts to develop splits and tears, with acrid smoke escaping from the fissures.
+Hp: 1545 (2039) Gp: 382 (382) Xp: 628896
+{-14 HP} 
+{-216 HP} 
+clw
+> You place your hands together and close your eyes.
+You utter a quick prayer to Gufnork.
+You place your hands on yourself.
+You feel Gufnork soothe your injuries with fluff.
+Hp: 1775 (2039) Gp: 366 (382) Xp: 628984
+{-12 HP} 
+Hp: 1766 (2039) Gp: 370 (382) Xp: 628987
+As your shield absorbs the impact, it becomes visible as a dull red glow.
+{-18 HP} 
+Hp: 1751 (2039) Gp: 374 (382) Xp: 628990
+{-6 HP} 
+Hp: 1748 (2039) Gp: 378 (382) Xp: 628993
+{-14 HP} 
+Tating places her hands together and closes her eyes.
+Hp: 1737 (2039) Gp: 382 (382) Xp: 628996
+{-12 HP} 
+Tating utters a quick prayer to Sek.
+Hp: 1728 (2039) Gp: 382 (382) Xp: 628999
+{-16 HP} 
+Tating places her hands on you.
+You feel Sek's fire burn around you, sealing your wounds.
+Hp: 2012 (2039) Gp: 382 (382) Xp: 629002
+As Tating strikes, a malevolent pall surrounds you and immediately your skin starts to develop splits and tears, with acrid smoke escaping from the fissures.
+Hp: 1760 (2039) Gp: 382 (382) Xp: 629005
+{-13 HP} 
+{-239 HP} 
+Hp: 1763 (2039) Gp: 382 (382) Xp: 629005
+{-6 HP} 
+Hp: 1760 (2039) Gp: 382 (382) Xp: 629008
+{-12 HP} 
+Hp: 1751 (2039) Gp: 382 (382) Xp: 629011
+As Tating strikes, a malevolent pall surrounds you and immediately your skin starts to develop splits and tears, with acrid smoke escaping from the fissures.
+Hp: 1538 (2039) Gp: 382 (382) Xp: 629014
+{-21 HP} 
+{-192 HP} 
+Hp: 1541 (2039) Gp: 382 (382) Xp: 629014
+{-5 HP} 
+[testing] Tating: hah, and now I keep getting the pall anyway
+Hp: 1539 (2039) Gp: 382 (382) Xp: 629017
+{-13 HP} 
+Hp: 1529 (2039) Gp: 382 (382) Xp: 629020
+{-15 HP} 
+Hp: 1517 (2039) Gp: 382 (382) Xp: 629023
+{-6 HP} 
+Tating puts down a set of wooden prayer beads.
+Hp: 1514 (2039) Gp: 382 (382) Xp: 629026
+Just as Tating makes contact, an umbral shroud eclipses you, accompanied by a choking, caustic smell.  With a sickening tearing sound, large fissures appear in your skin as parts warp and melt away.
+Hp: 1220 (2039) Gp: 382 (382) Xp: 629029
+{-7 HP} 
+{-287 HP} 
+gs seems bit random tbh
+Tating gets a bronze helm from a pocket in a black backpack.
+Tating removes the Klatchian steel skull helm.
+[testing] Adassin: seems bit random tbh
+> Hp: 1223 (2039) Gp: 382 (382) Xp: 629029
+{-13 HP} 
+clw
+> Tating wears a bronze helm.
+You place your hands together and close your eyes.
+You utter a quick prayer to Gufnork.
+You place your hands on yourself.
+You feel Gufnork soothe your injuries with fluff.
+Hp: 1458 (2039) Gp: 366 (382) Xp: 629073
+clw
+{-12 HP} 
+> You place your hands together and close your eyes.
+You utter a quick prayer to Gufnork.
+You place your hands on yourself.
+You feel Gufnork soothe your injuries with fluff.
+Hp: 1684 (2039) Gp: 350 (382) Xp: 629126
+Tating calls upon Sek with a vengeful tone.
+Hp: 1687 (2039) Gp: 354 (382) Xp: 629129
+{-16 HP} 
+Tating gestures wildly, beseeching Sek to grant her something.
+Hp: 1674 (2039) Gp: 358 (382) Xp: 629132
+{-14 HP} 
+Hp: 1663 (2039) Gp: 362 (382) Xp: 629135
+Tating places her hands together and closes her eyes.
+{-11 HP} 
+Tating utters a quick prayer to Sek.
+Tating places her hands on you.
+You feel Sek's fire burn around you, sealing your wounds.
+gs btw how often do you get the ire hit at all?
+Hp: 1930 (2039) Gp: 366 (382) Xp: 629138
+Just as Tating makes contact, a malevolent pall surrounds you and immediately your skin starts to develop splits and tears, with acrid smoke escaping from the fissures.
+Hp: 1702 (2039) Gp: 366 (382) Xp: 629141
+{-13 HP} 
+{-215 HP} 
+Tating removes the bronze helm.
+[testing] Adassin: btw how often do you get the ire hit at all?
+> Hp: 1705 (2039) Gp: 370 (382) Xp: 629141
+{-11 HP} 
+Tating puts the bronze helm in a pocket in the black backpack.
+Tating wears a Klatchian steel skull helm.
+As your shield absorbs the impact, its glow changes from a dull red to a bright red.
+Hp: 1697 (2039) Gp: 374 (382) Xp: 629144
+{-8 HP} 
+Hp: 1692 (2039) Gp: 378 (382) Xp: 629147
+gs is it the 1/4 of hits?
+{-7 HP} 
+[testing] Adassin: is it the 1/4 of hits?
+> Hp: 1688 (2039) Gp: 382 (382) Xp: 629150
+Just as Tating makes contact, an umbral shroud eclipses you, accompanied by a choking, caustic smell.  With a sickening tearing sound, large fissures appear in your skin as parts warp and melt away.
+Hp: 1423 (2039) Gp: 382 (382) Xp: 629153
+{-12 HP} 
+{-253 HP} 
+Hp: 1426 (2039) Gp: 382 (382) Xp: 629153
+As Tating's blow lands, an umbral shroud eclipses you, accompanied by a choking, caustic smell.  With a sickening tearing sound, large fissures appear in your skin as parts warp and melt away.
+Hp: 1137 (2039) Gp: 382 (382) Xp: 629156
+{-13 HP} 
+{-276 HP} 
+clw
+> You place your hands together and close your eyes.
+You utter a quick prayer to Gufnork.
+You place your hands on yourself.
+You feel Gufnork soothe your injuries with fluff.
+Hp: 1394 (2039) Gp: 366 (382) Xp: 629207
+
+> 
+
+> 
+{-14 HP} 
+clw
+> You place your hands together and close your eyes.
+Hp: 1383 (2039) Gp: 350 (382) Xp: 629252
+
+> 
+
+You utter a quick prayer to Gufnork.
+> 
+
+> 
+
+You place your hands on yourself.
+You feel Gufnork soothe your injuries with fluff.
+> Hp: 1625 (2039) Gp: 354 (382) Xp: 629255
+As your shield absorbs the impact, its glow changes from a bright red to a wobbling orange.
+
+> 
+
+> 
+
+> 
+
+> 
+
+Hp: 1628 (2039) Gp: 358 (382) Xp: 629258
+As Tating's blow lands, a deep shadow envelops you, accompanied by an unnerving crackling sound as your skin starts to blister and crack.
+Hp: 1448 (2039) Gp: 358 (382) Xp: 629261
+> 
+{-13 HP} 
+{-167 HP} 
+clw
+> You place your hands together and close your eyes.
+You utter a quick prayer to Gufnork.
+You place your hands on yourself.
+You feel Gufnork soothe your injuries with fluff.
+Hp: 1681 (2039) Gp: 342 (382) Xp: 629308
+{-6 HP} 
+Your shield changes from a wobbling orange to a bright red.
+clw
+> You place your hands together and close your eyes.
+You utter a quick prayer to Gufnork.
+Hp: 1678 (2039) Gp: 326 (382) Xp: 629349
+As your shield absorbs the impact, its glow changes from a bright red to a wobbling orange.
+You place your hands on yourself.
+You feel Gufnork soothe your injuries with fluff.
+Hp: 1903 (2039) Gp: 330 (382) Xp: 629352
+As Tating's blow lands, a malevolent pall surrounds you and immediately your skin starts to develop splits and tears, with acrid smoke escaping from the fissures.
+Hp: 1723 (2039) Gp: 330 (382) Xp: 629355
+{-180 HP} 
+Hp: 1726 (2039) Gp: 334 (382) Xp: 629355
+{-13 HP} 
+Hp: 1716 (2039) Gp: 338 (382) Xp: 629358
+As your shield absorbs the impact, its glow changes from a wobbling orange to a flickering yellow.
+{-12 HP} 
+Hp: 1707 (2039) Gp: 342 (382) Xp: 629361
+{-13 HP} 
+Your shield changes from a flickering yellow to a wobbling orange.
+MercuryA tells you: I'd love to join on that, thanks! Yeah you did tell me about Aell, but I haven't really gotten a chance to interact with them much lol creeps does not surprise me -- unfortunately, my first exposure to ERP was on Disc back when I was like... idk 14 :'D I don't care about that kind of stuff now but back then I was definitely too young LOL
+Hp: 1697 (2039) Gp: 346 (382) Xp: 629364
+As your shield absorbs the impact, its glow changes from a wobbling orange to a flickering yellow.
+Just as Tating makes contact, a malevolent pall surrounds you and immediately your skin starts to develop splits and tears, with acrid smoke escaping from the fissures.
+Hp: 1498 (2039) Gp: 346 (382) Xp: 629367
+{-14 HP} 
+{-185 HP} 
+condition all damaged
+The pair of black leather gloves (1) is in decent condition.
+The pair of smuggler's seaboots (2) is in very good condition.
+The crystal-bladed dagger (3) is in very good condition.
+The crystal-bladed dagger (4) is in very good condition.
+The swag bag (5) 'seabag' is in really poor condition.
+The dark grey cloak (6) is a complete wreck.
+> Hp: 1501 (2039) Gp: 350 (382) Xp: 629367
+{-12 HP} 
+Hp: 1492 (2039) Gp: 354 (382) Xp: 629370
+As Tating's blow lands, a deep shadow envelops you, accompanied by an unnerving crackling sound as your skin starts to blister and crack.
+Hp: 1365 (2039) Gp: 354 (382) Xp: 629373
+{-16 HP} 
+{-111 HP} 
+Hp: 1368 (2039) Gp: 358 (382) Xp: 629373
+{-13 HP} 
+clw
+> You place your hands together and close your eyes.
+You utter a quick prayer to Gufnork.
+You place your hands on yourself.
+You feel Gufnork soothe your injuries with fluff.
+Hp: 1583 (2039) Gp: 342 (382) Xp: 629418
+There is a sudden white flash.  Your magical shield has broken.
+Tating thrusts at you with her ornamental snake dagger but your magical shielding absorbs most of the blow.
+{-11 HP} 
+{-3 HP} 
+
+> Hp: 1572 (2039) Gp: 346 (382) Xp: 629421
+Tating cuts your chest with her ornamental snake dagger.
+As Tating strikes, a malevolent pall surrounds you and immediately your skin starts to develop splits and tears, with acrid smoke escaping from the fissures.
+Hp: 1180 (2039) Gp: 346 (382) Xp: 629424
+{-14 HP} 
+{-133 HP} 
+{-245 HP} 
+w
+Tating leaves south.
+*-*-*-*   
+|x|x|x|\  
+*-*-@-*-*+
+|x|x|x|/  
+*-*-*-&   
+The eastern side of the arena [n,ne,e,se,s,sw,w,nw].
+> 
+clw
+> You place your hands together and close your eyes.
+You utter a quick prayer to Gufnork.
+You place your hands on yourself.
+You feel Gufnork soothe your injuries with fluff.
+Hp: 1414 (2039) Gp: 330 (382) Xp: 629461
+clw
+> You place your hands together and close your eyes.
+You utter a quick prayer to Gufnork.
+You place your hands on yourself.
+You feel Gufnork soothe your injuries with fluff.
+Hp: 1653 (2039) Gp: 318 (382) Xp: 629505
+gs one min recasting tpa
+[testing] Adassin: one min recasting tpa
+> [testing] Tating: seemed like varying between 3 and 4
+tpa me
+Cannot find "bag", no match.
+Cannot find "shield", no match.
+Cannot find "flat cap" in your inventory, no match.
+Cannot find "scroll", no match.
+Cannot find "scroll", no match.
+Cannot find "scroll on me" in your inventory, no match.
+> Cannot find "cap" in your inventory, no match.
+Cannot find "shield" in your inventory, no match.
+l e
+The land is lit up by the eerie light of the waxing gibbous moon.
+This is the eastern side of the arena, next to a large chunk of a ruined pillar.  Many glorious and bloody battles have been fought here, as this is both the place of the beginning and the end of countless Champions' stories.  The arena stretches out all around like a sea of sand confined by the walls of the stands.
+It is a chilly secundus spring's night with a gentle breeze and a beautifully clear sky.
+ [n,e,s,sw,w,nw]
+A dark grey cloak and a swag bag are on the ground.
+> 
+e
+*-*-*     
+|x|x|\    
+*-*-@-*+  
+|x|x|/    
+*-*-&     
+The eastern side of the arena [n,e,s,sw,w,nw].
+A dark grey cloak and a swag bag are on the ground.
+> 
+tpa me
+You get an ironwood buckler, a sheet of cheap writing paper and a flat cap from a pocket in a swag bag.
+> You feel a momentary itch at the back of your neck.
+You wear a flat cap.
+{-38 HP} 
+You prepare to cast Transcendent Pneumatic Alleviator on yourself.
+You consider the function of a shield.
+You send your thoughts probing into the air around yourself.
+You silently sing a stream of shifting syllables.
+You lift the ash and scatter it around yourself.
+You weave a magical impact shield around yourself.
+With a noise that sounds like "Plink!", everything around you flashes red for a moment.
+For a moment you feel like skipping, but it passes.
+You remove the flat cap.
+You put the ironwood buckler, the sheet of cheap writing paper and the flat cap in a pocket in the swag bag.
+[testing] Tating: and not sure if that's a chance on each hit, or a timer. I'm so bad at daggers I manage to be slow withthem
+
+> 
+tell mercurya yeah the same for me, drum is not for begginers haha
+You tell MercuryA: yeah the same for me, drum is not for begginers haha
+> 
+shields
+Arcane protection status:
+ * You are surrounded by a magical impact shield.
+> Tating arrives from the south.
+Hp: 1745 (2039) Gp: 382 (382) Xp: 630501
+{-13 HP} 
+Tating places her hands together and closes her eyes.
+Tating utters a quick prayer to Sek.
+Hp: 1735 (2039) Gp: 382 (382) Xp: 630504
+{-13 HP} 
+Tating places her hands on you.
+You feel Sek's fire burn around you, sealing your wounds.
+Hp: 2039 (2039) Gp: 382 (382) Xp: 630507
+{-13 HP} 
+Hp: 2029 (2039) Gp: 382 (382) Xp: 630510
+{-12 HP} 
+gs btw i have weird theory
+Just as Tating makes contact, a malevolent pall surrounds you and immediately your skin starts to develop splits and tears, with acrid smoke escaping from the fissures.
+Hp: 1822 (2039) Gp: 382 (382) Xp: 630513
+{-195 HP} 
+[testing] Adassin: btw i have weird theory
+> Hp: 1825 (2039) Gp: 382 (382) Xp: 630513
+{-10 HP} 
+Hp: 1818 (2039) Gp: 382 (382) Xp: 630516
+{-10 HP} 
+As your shield absorbs the impact, it becomes visible as a dull red glow.
+Hp: 1811 (2039) Gp: 382 (382) Xp: 630519
+{-6 HP} 
+Hp: 1808 (2039) Gp: 382 (382) Xp: 630522
+{-16 HP} 
+As Tating's blow lands, an umbral shroud eclipses you, accompanied by a choking, caustic smell.  With a sickening tearing sound, large fissures appear in your skin as parts warp and melt away.
+Hp: 1490 (2039) Gp: 382 (382) Xp: 630525
+{-302 HP} 
+MercuryA tells you: LOL is that were all the ERPers go these days? xD
+Hp: 1493 (2039) Gp: 382 (382) Xp: 630525
+{-6 HP} 
+Hp: 1490 (2039) Gp: 382 (382) Xp: 630528
+{-8 HP} 
+As your shield absorbs the impact, its glow changes from a dull red to a bright red.
+Hp: 1485 (2039) Gp: 382 (382) Xp: 630531
+As Tating strikes, an umbral shroud eclipses you, accompanied by a choking, caustic smell.  With a sickening tearing sound, large fissures appear in your skin as parts warp and melt away.
+Hp: 1208 (2039) Gp: 382 (382) Xp: 630534
+{-10 HP} 
+{-267 HP} 
+Hp: 1211 (2039) Gp: 382 (382) Xp: 630534
+{-15 HP} 
+As your shield absorbs the impact, its glow changes from a bright red to a wobbling orange.
+gs i happen to get it like 20/23 hits on my newbie priest
+Hp: 1199 (2039) Gp: 382 (382) Xp: 630537
+{-14 HP} 
+[testing] Adassin: i happen to get it like 20/23 hits on my newbie priest
+> Your shield changes from a wobbling orange to a bright red.
+Hp: 1188 (2039) Gp: 382 (382) Xp: 630540
+As your shield absorbs the impact, its glow changes from a bright red to a wobbling orange.
+{-7 HP} 
+Hp: 1184 (2039) Gp: 382 (382) Xp: 630543
+clw
+{-14 HP} 
+> You place your hands together and close your eyes.
+You utter a quick prayer to Gufnork.
+As Tating's blow lands, a dark aura appears around you and pungent vapours start to rise from your skin, accompanied by a hissing noise.
+Hp: 1075 (2039) Gp: 362 (382) Xp: 630581
+You place your hands on yourself.
+You feel Gufnork soothe your injuries with fluff.
+{-95 HP} 
+clw
+Hp: 1294 (2039) Gp: 366 (382) Xp: 630581
+As your shield absorbs the impact, its glow changes from a wobbling orange to a flickering yellow.
+> You place your hands together and close your eyes.
+You utter a quick prayer to Gufnork.
+You place your hands on yourself.
+You feel Gufnork soothe your injuries with fluff.
+{-15 HP} 
+clw
+> Hp: 1501 (2039) Gp: 350 (382) Xp: 630617
+
+> 
+
+There is a sudden white flash.  Your magical shield has broken.
+Tating stabs you deeply in the stomach with her ornamental snake dagger.
+> 
+{-120 HP} 
+
+> 
+
+> Tating leaves south.
+You place your hands together and close your eyes.
+
+> You utter a quick prayer to Gufnork.
+You place your hands on yourself.
+You feel Gufnork soothe your injuries with fluff.
+Hp: 1613 (2039) Gp: 334 (382) Xp: 630659
+clw
+> You place your hands together and close your eyes.
+You utter a quick prayer to Gufnork.
+
+> You place your hands on yourself.
+You feel Gufnork soothe your injuries with fluff.
+
+Hp: 1866 (2039) Gp: 318 (382) Xp: 630719
+> 
+clw
+> You place your hands together and close your eyes.
+You utter a quick prayer to Gufnork.
+You place your hands on yourself.
+You feel Gufnork soothe your injuries with fluff.
+Hp: 2039 (2039) Gp: 302 (382) Xp: 630779
+tpa me
+You get an ironwood buckler, a sheet of cheap writing paper and a flat cap from a pocket in a swag bag.
+> You feel a momentary itch at the back of your neck.
+You wear a flat cap.
+You appear to be missing some of the materials needed to cast Transcendent Pneumatic Alleviator.
+You need a shield and a handful of fine ash to successfully cast Transcendent Pneumatic Alleviator.
+For a moment you feel like skipping, but it passes.
+You remove the flat cap.
+You put the ironwood buckler, the sheet of cheap writing paper and the flat cap in a pocket in the swag bag.
+twist second ring
+You twist the gold and mahogany ring.
+> Light streams out of the gold and mahogany ring and forms the shape of a chest in the air.
+After a moment, a huge gold-bound chest materialises with a satisfying thump.
+take ash from chest
+You get some fine white ash from a huge gold-bound chest.
+> 
+tpa me
+You get an ironwood buckler, a sheet of cheap writing paper and a flat cap from a pocket in a swag bag.
+You feel a momentary itch at the back of your neck.
+You wear a flat cap.
+> 
+
+> You prepare to cast Transcendent Pneumatic Alleviator on yourself.
+{-48 HP} 
+You consider the function of a shield.
+You send your thoughts probing into the air around yourself.
+[testing] Tating: does you think it's an internal cooldown?
+You silently sing a stream of shifting syllables.
+You lift the ash and scatter it around yourself.
+You weave a magical impact shield around yourself.
+With a noise that sounds like "Plink!", everything around you flashes red for a moment.
+gs yeah maybe
+For a moment you feel like skipping, but it passes.
+You remove the flat cap.
+You put the ironwood buckler, the sheet of cheap writing paper and the flat cap in a pocket in the swag bag.
+> [testing] Adassin: yeah maybe
+gs since i hit like once 3 rounds
+[testing] Adassin: since i hit like once 3 rounds
+> 
+gs i think there might be something
+[testing] Adassin: i think there might be something
+> [testing] Tating: oh, I got a dark aura in there too
+gs btw recasted
+[testing] Adassin: btw recasted
+> Tating arrives from the south.
+Hp: 2039 (2039) Gp: 318 (382) Xp: 632281
+{-15 HP} 
+Just as Tating makes contact, an umbral shroud eclipses you, accompanied by a choking, caustic smell.  With a sickening tearing sound, large fissures appear in your skin as parts warp and melt away.
+Hp: 1770 (2039) Gp: 318 (382) Xp: 632284
+{-254 HP} 
+Hp: 1773 (2039) Gp: 322 (382) Xp: 632284
+As Tating's blow lands, a malevolent pall surrounds you and immediately your skin starts to develop splits and tears, with acrid smoke escaping from the fissures.
+Hp: 1543 (2039) Gp: 322 (382) Xp: 632287
+{-12 HP} 
+{-218 HP} 
+gs h pasting
+[testing] Adassin: h pasting
+> Hp: 1546 (2039) Gp: 326 (382) Xp: 632287
+{-6 HP} 
+Hp: 1543 (2039) Gp: 330 (382) Xp: 632290
+As your shield absorbs the impact, it becomes visible as a dull red glow.
+{-14 HP} 
+Hp: 1532 (2039) Gp: 334 (382) Xp: 632293
+Just as Tating makes contact, an umbral shroud eclipses you, accompanied by a choking, caustic smell.  With a sickening tearing sound, large fissures appear in your skin as parts warp and melt away.
+Hp: 1170 (2039) Gp: 334 (382) Xp: 632296
+{-14 HP} 
+{-348 HP} 
+Hp: 1173 (2039) Gp: 338 (382) Xp: 632296
+{-15 HP} 
+[Mazak leaves Discworld -- Assassins (Assassin)]
+Hp: 1161 (2039) Gp: 342 (382) Xp: 632299
+{-13 HP} 
+As your shield absorbs the impact, its glow changes from a dull red to a bright red.
+As Tating's blow lands, an umbral shroud eclipses you, accompanied by a choking, caustic smell.  With a sickening tearing sound, large fissures appear in your skin as parts warp and melt away.
+Hp: 890 (2039) Gp: 342 (382) Xp: 632302
+{-258 HP} 
+Hp: 893 (2039) Gp: 346 (382) Xp: 632302
+{-14 HP} 
+Your shield changes from a bright red to a dull red.
+As your shield absorbs the impact, its glow changes from a dull red to a bright red.
+Tating appears to be checking out all your wounds.
+Tating studies Tating and you.
+Hp: 882 (2039) Gp: 350 (382) Xp: 632305
+{-21 HP} 
+Tating places her hands together and closes her eyes.
+Hp: 864 (2039) Gp: 354 (382) Xp: 632308
+{-15 HP} 
+Tating utters a quick prayer to Sek.
+Hp: 852 (2039) Gp: 358 (382) Xp: 632311
+{-5 HP} 
+Tating places her hands on you.
+You feel Sek's fire burn around you, sealing your wounds.
